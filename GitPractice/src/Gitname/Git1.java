@@ -7,6 +7,9 @@ public class Git1 {
 		System.out.println("Daniyal Ahmad");
 		
 		System.out.println("My 1st update");
+		
+		
+		System.out.println("My 2nd update");
 		// TODO Auto-generated method stub
 
 	}
