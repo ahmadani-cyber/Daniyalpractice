@@ -6,7 +6,7 @@ public class Git1 {
 		
 		
 		System.out.println("Daniyal");
-		// TODO Auto-generated method stub
+		
 
 	}
 
